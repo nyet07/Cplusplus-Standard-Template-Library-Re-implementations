@@ -1,0 +1,2 @@
+A template Array class that has no limits on dimensions it can have.
+It can adjust itself to any dimension that a compiler can handle when dealing with templates. Although, in reality, a linear array is used to store the elements, Array class provides all the necessary abstractions to make it seem as a multi dimensional array with all the properties a normal array could have. 
