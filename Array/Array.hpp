@@ -5,7 +5,7 @@
 #include <cstring>
 #include <type_traits>
 #include <cstdlib>
-
+				/*		Ugur Buyukdurak			*/
 using std::cout;
 using std::endl;
 
