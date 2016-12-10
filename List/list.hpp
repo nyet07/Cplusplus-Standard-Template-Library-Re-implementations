@@ -8,7 +8,7 @@
 #include <new>
 #include <cassert>
 #include <initializer_list>
-
+					/*		Ugur Buyukdurak		*/
 using std::ostream;
 
 template<typename T>
